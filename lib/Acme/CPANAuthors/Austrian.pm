@@ -1,9 +1,11 @@
 use 5.006;
 use strict;
 use warnings;
+use utf8;
+use version;
 
 package Acme::CPANAuthors::Austrian;
-our $VERSION = '1.100770';
+our $VERSION = 1.131810;
 # ABSTRACT: We are Austrian CPAN authors
 
 use Acme::CPANAuthors::Register (
@@ -13,6 +15,7 @@ use Acme::CPANAuthors::Register (
     DRRHO    => 'Robert Barta',
     FLORIAN  => 'Florian Helmberger',
     GARGAMEL => 'Karlheinz Zöchling',
+    GORTAN   => 'Philipp Gortan',
     KALEX    => 'Alexander Keusch',
     LAMMEL   => 'Roland Lammel',
     LANTI    => 'Ingo Lantschner',
