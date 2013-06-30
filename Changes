@@ -1,6 +1,6 @@
 Revision history for Perl extension Acme-CPANAuthors-Austrian
 
-1.131810 2013-06-30 19:00:00 Europe/Vienna
+1.131810 2013-06-30 21:30:00 Europe/Vienna
     - added author GORTAN
     - added "use utf8" to fix #60407
 
